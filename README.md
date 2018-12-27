@@ -1,7 +1,7 @@
 # Excel_dymamic_form_VBA
 Excel dynamic form-configurator, Excel to PDF, Excel to TXT
 
-# Run_local
+# Run_local_SPOOL_SHEET.xls
 
 Extract all first into the your work folder. Do not open this file from Microsoft Outlook.
 
